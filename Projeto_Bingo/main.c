@@ -8,10 +8,14 @@ typedef struct {
 } cartela;
 
 
-/*typedef struct{
+/* teste
+ 
+ typedef struct{
 	int qtd_cart;
 	int num_sorteado[90];
-} jogo; */
+} jogo; 
+ 
+ */
 
 int main (){
 
