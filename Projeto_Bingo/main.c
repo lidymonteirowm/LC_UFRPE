@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-#include "fbingo.h"
 
 #define BOLAS_CARTELA 18
 #define QTD_BOLAS 90
